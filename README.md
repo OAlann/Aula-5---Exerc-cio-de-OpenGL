@@ -20,5 +20,5 @@ Implementar um programa em C++ utilizando OpenGL com elementos interativos.
 Na cena, existem 4 teapots rotacionando de forma contínua. A escala dos teapots deve ir diminuindo, até sumirem por completo depois
 de 10 segundos. Quando a nave se aproximar de um teapot (colidir), o mesmo deve sumir.
 
-#Pontos importantes:
+# Pontos importantes:
 • Certifique-se de que todas as bibliotecas necessárias estão corretamente instaladas e configuradas
